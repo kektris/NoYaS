@@ -9,5 +9,6 @@ NoYaS is a project of de-Yandexing YaStations. Currently, this project is still 
 ### Not necessary additional features
 - Spotify desktop app (for linking Spotify)
 - Home Assistant (for bridge between Yandex and HAOS)
+- Chromium Browser (for search features)
 ## Process
 todo
